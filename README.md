@@ -1,1 +1,2 @@
-# minor_project_c
+# Requirements
+
