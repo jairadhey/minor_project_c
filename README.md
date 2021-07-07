@@ -13,9 +13,13 @@ In this project I am using algorithm exists in many variants which is commonly c
 Benefits
 
 1-A simpler way for students who want to learn Data Structures and algorithm.
+
 2-Well organized way to learn.
+
 3-User can find shortest path to reach out destination.
+
 4-Saves user time.
+
 5-Provides a better way for learning learn Data Structures by providing the execution and visualization features.
 
 
