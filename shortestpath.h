@@ -1,4 +1,4 @@
-void dijkstra(int graph[9][9], int src) {
+void dijkstra(int graph[9][9],int src) {
    int dist[9];
    int sptSet[9];
    for (int i = 0; i < 9; i++)
