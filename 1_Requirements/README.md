@@ -22,3 +22,26 @@ Benefits
 
 5-Provides a better way for learning learn Data Structures by providing the execution and visualization features.
 
+# Swot Analysis
+
+Strength
+
+1-Saves manual error
+2-Reduces time
+3-Simple to use
+
+Weakness
+
+1-Reduce time but not much
+2-Specific rounding policy
+
+Opportunity
+
+1-Hosting Server online
+2-Learning from others
+
+Threats
+
+1-Hack the input
+2-Hack into algorithm test case
+
